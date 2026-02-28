@@ -1,2 +1,2 @@
 # minimal-blog
-Blog minimalista desenvolvido em Jekyll, um gerador de sites estáticos baseados em Ruby.
+Minimalist blog built with Jekyll, a Ruby-based static site generator.
